@@ -1,0 +1,13 @@
+{
+    "name": "Key.caps_lock",
+    "o": "delete",
+    "u": "Backspace",
+    "i": "up",
+    "k": "down",
+    "j": "left",
+    "l": "right",
+    "c": "ctrl+c",
+    "v": "ctrl+v",
+    "q": "c",
+    "h": "enter"
+}
